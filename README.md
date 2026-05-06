@@ -66,7 +66,16 @@ School principals log in and digitally submit their exam paper requirements (sub
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Edge)
 - Internet connection (Firebase is cloud-hosted)
+  
+### Run Locally
+```bash
+# Clone the repository
+git clone https://github.com/dpatel3004/School-Exam_Portal.git
 
+# Open index.html in your browser
+# Or use Live Server extension in VS Code
+
+---
 
 ### Live Demo
 > 🔗 https://school-exam-app-a0c3c.web.app
